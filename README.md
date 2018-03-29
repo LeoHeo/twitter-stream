@@ -1,6 +1,9 @@
 # twitter-stream
 twitter stream 긁어오기
 
+## 최종 실행결과
+[![asciicast](https://asciinema.org/a/173247.png)](https://asciinema.org/a/173247)
+
 ## 선행작업
 1. [Create New App](https://apps.twitter.com/)
 2. `keys and Access Tokens`
